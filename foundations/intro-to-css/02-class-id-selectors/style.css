@@ -1,0 +1,19 @@
+.body-text {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: hsl(344, 58%, 80%);
+}
+
+.large-text {
+  font-size: 24px;
+}
+
+#number-2 {
+  font-size: 36px;
+  color: hsl(240, 55%, 49%);
+}
+
+#number-4 {
+  font-size: 24px;
+  font-weight: 700;
+  background-color: hsl(120, 71%, 81%);
+}
